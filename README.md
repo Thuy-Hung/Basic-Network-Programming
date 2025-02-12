@@ -9,6 +9,8 @@
 
 1. **Forms**:
    - The program consists of two forms: Client and Server.
+   ![image](https://github.com/user-attachments/assets/09e088ba-92c6-4646-a9ea-61ca8d32ba3c)
+   ![image](https://github.com/user-attachments/assets/ecb62a0c-87b4-4478-b2f4-624126a348ca)
 
 2. **Client Side**:
    - Use `TcpClient` to connect to the Server. Upon successful connection, open a separate thread to receive data from the Server while the login panel disappears and the working panel appears.
@@ -22,6 +24,7 @@
 #### Usage Guide
 
 - First, enter the IP address and port for the Client and Server to connect (enter for Server and click connect first).
+  ![image](https://github.com/user-attachments/assets/0d818416-a591-4a1f-a3d8-473551a9303d)
 - After the Client connects to the Server, it can enter any domain name and select the desired IP format before clicking the "Query" button to send data to the Server for processing.
 - The program will display errors for incorrect actions, such as:
   - Attempting to connect the Client before starting the Server.
