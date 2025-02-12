@@ -44,8 +44,10 @@
 
 1. **Forms**:
    - The program consists of two forms designed as follows:
-     - **Client**: 
-     - **Server**: 
+     - **Client**: ![image](https://github.com/user-attachments/assets/94c66eeb-e61a-46b7-9236-dd49c9329a44)
+
+     - **Server**: ![image](https://github.com/user-attachments/assets/adc2cfd9-651d-4831-9856-a912dc981dc3)
+
 
 2. **Client Side**:
    - Create a `TcpClient` with hostname `127.0.0.1` and port `8080`. Create a `NetworkStream` and send the Server path as a byte array. Wait for the Server to return the byte array. If the file is text, convert it to a string and display it; if it’s an image, display it in a picture box.
@@ -55,17 +57,18 @@
 
 #### Usage Guide
 
-- Open the window and press the "Server" button to start the Server and the "Client" button to open the Client.
-- To move the form, click and hold anywhere on the Client form that does not contain buttons or textboxes, and for the Server, hold between the two images.
-- Start the Server by pressing the "Off" button.
+- Open the window and press the "Server" button to start the Server and the "Client" button to open the Client. To move the form, click and hold anywhere on the Client form that does not contain buttons or textboxes, and for the Server, hold between the two images.![image](https://github.com/user-attachments/assets/41a7128a-ce16-4722-97c3-051300a4ab9c)
+- Start the Server by pressing the "Off" button.![image](https://github.com/user-attachments/assets/79ba785e-7052-469b-a8f9-9c88f4924dd0)
+
 - Enter the path in the "File Path" field on the Server and press "Connect". A dialog will open to save the file. Name the file and press "Save". The content will display on the form.
+![image](https://github.com/user-attachments/assets/da88093d-de45-4a48-b836-40347babe1c5) ![image](https://github.com/user-attachments/assets/b1ec6616-2655-4aee-a6cb-25469651019e)
 
 ### Common Errors
 
-- The Client attempts to connect before the Server is started.
-- Only one Server can listen on the same IPEndpoint (`0.0.0.0:8080`). If two Servers are listening, the one started last will automatically stop and close the form.
-- If the Server path textbox is empty during the Client connection, a MessageBox will prompt for the path.
-- If the user enters an incorrect path, the program will notify that the file cannot be found on the Server.
+- The Client attempts to connect before the Server is started. ![image](https://github.com/user-attachments/assets/632840ef-71c7-43c2-af7b-662ae257ec64)
+- Only one Server can listen on the same IPEndpoint (`0.0.0.0:8080`). If two Servers are listening, the one started last will automatically stop and close the form. ![image](https://github.com/user-attachments/assets/1d1370b0-232d-4a0a-a848-7a03b682035a)
+- If the Server path textbox is empty during the Client connection, a MessageBox will prompt for the path. ![image](https://github.com/user-attachments/assets/2ec49c3a-293c-4727-9ae4-efd415e1f644)
+- If the user enters an incorrect path, the program will notify that the file cannot be found on the Server. ![image](https://github.com/user-attachments/assets/a98a8132-d836-49d8-9fd4-06dc4f5a5998)
 
 ### Topic 13: Mail Reading/Sending Program Using IMAP
 
@@ -75,30 +78,27 @@
 #### Installation Guide
 
 - The program consists of three forms designed as follows:
-  - **Login Form**: Displays the list of emails.
-  - **Email Content Form**: Displays the selected email content.
-  - **Compose Email Form**: Allows sending emails.
+  - **Login Form**: Displays the list of emails. ![image](https://github.com/user-attachments/assets/74c543f6-a0a0-483e-961a-c06b32cca3a8)
+  - **Email Content Form**: Displays the selected email content. ![image](https://github.com/user-attachments/assets/1c0fd757-f7d9-42de-ad7b-ebffe81f84d2)
+  - **Compose Email Form**: Allows sending emails. ![image](https://github.com/user-attachments/assets/44bd3e0f-4c56-47f4-9132-a400df9b565b)
 
 #### Usage Guide
 
-- First, open the form to enter email account information (Note: password must be encrypted).
-- After logging in, the interface will appear.
-- Use the "Compose" button to send emails, "Renew" to refresh the interface, "Sent" to view sent emails from the last 7 days, and "Log out" to log out.
-- Click on an email line to display the content.
+- First, open the form to enter email account information (Note: password must be encrypted).![image](https://github.com/user-attachments/assets/47d41725-ccf3-4f4a-8a1b-3c519c93cdaa)
+
+- After logging in, the interface will appear. ![image](https://github.com/user-attachments/assets/a5ea43d1-e05e-466f-93da-717d6d337a2b)
+
+- Use the "Compose" button to send emails, "Renew" to refresh the interface, "Sent" to view sent emails from the last 7 days, and "Log out" to log out. ![image](https://github.com/user-attachments/assets/cc4b6dbd-1c0a-4966-a0fa-38d9e7ff9449)
+
+- Click on an email line to display the content. ![image](https://github.com/user-attachments/assets/7abfa2bf-061b-4fb6-a748-b27dc993c638)
+
 
 ### General Requirements
 
 1. **Evaluation**:
-   - Prepare well for the practical requirements.
-   - Students must understand and perform the practical tasks independently and answer all related questions.
-   - Submit a detailed report of what has been done, observations made, and include screenshots (if any); explain any observations.
+   - Prepare well for the practical requirements. 
+   - Students must understand and perform the practical tasks independently and answer all related questions. ![image](https://github.com/user-attachments/assets/3ae24da1-81cb-4296-80bd-84ffdd41aa58)
 
-2. **Report**:
-   - File format: .PDF or .docx. Focus on content and explanations.
-   - Formatting: Use Times New Roman or UTM Avo font, size 13. Justify the text and center the images.
-   - Naming format: LabX_MSSV1_MSSV2 (where X is the practical session order).
-   - Submit the report file by the agreed deadline on courses.uit.edu.vn.
-
-Late submissions or copied work will be handled according to the level of violation.
+   - Submit a detailed report of what has been done, observations made, and include screenshots (if any); explain any observations. ![image](https://github.com/user-attachments/assets/b0dd8fa6-2fad-4eaa-930a-d2350b5ba6e7)
 
 ## End
