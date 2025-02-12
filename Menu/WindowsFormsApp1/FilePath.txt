@@ -1,0 +1,10 @@
+﻿C:\\Users\\ADMIN\\Network-Programing\\OpenFileinClientServer\\OpenFileinClientServer\\File.txt
+D:\\DownloadinD\\lab4_sjf2.txt
+D:\\DownloadinD\\SRT.txt
+D:\DownloadinD\4k-wallpaper-3d-game.jpg
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\Resources\ava_Member.jpg
+D:\DownloadinD\wolf_circle.jpg
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\Resources\png-transparent-chibi-ciel-phantomhive-anime-monkey-d-luffy-art-manga-boy-black-hair-chibi-fictional-character.png
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\Resources\Loading-GIF-Image-18.gif
+
+D:\DownloadinD\NHOM5LAB1.docx

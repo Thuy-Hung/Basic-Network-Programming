@@ -1,0 +1,664 @@
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Menu.csproj.AssemblyReference.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DNS.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Menu.csproj.GenerateResource.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Menu.csproj.CopyComplete
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ThanhVien.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Email.resources
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.AssemblyReference.cache
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DNS.resources
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DNS.Client.resources
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Email.resources
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Mail.Mail.resources
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Mail.SendMail.resources
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Mail.ViewMessage.resources
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.GenerateResource.cache
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.CopyComplete
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DNS.Server.resources
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DNS.DashBoardDNS.resources
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\MailKit.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\MailKit.dll.config
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\MimeKit.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\MimeKit.dll.config
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\RestSharp.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Data.Odbc.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Data.OleDb.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Diagnostics.EventLog.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Drawing.Common.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\System.IO.Packaging.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\System.IO.Ports.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Permissions.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Syndication.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Threading.AccessControl.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FileContent.F_Server.resources
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.Fody.CopyLocal.cache
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Core.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FileContent.F_Client.resources
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ClSvwithFile.resources
+D:\DownloadinD\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Authors.resources
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\MailKit.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\MailKit.dll.config
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\MimeKit.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\MimeKit.dll.config
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\RestSharp.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Data.Odbc.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Data.OleDb.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Diagnostics.EventLog.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Drawing.Common.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\System.IO.Packaging.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\System.IO.Ports.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Permissions.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Syndication.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Threading.AccessControl.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Core.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\hk4\Menu\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.AssemblyReference.cache
+D:\hk4\Menu\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+D:\hk4\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ClSvwithFile.resources
+D:\hk4\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.dns.resources
+D:\hk4\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DNS.Client.resources
+D:\hk4\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DNS.DashBoardDNS.resources
+D:\hk4\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DNS.Server.resources
+D:\hk4\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Email.resources
+D:\hk4\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FileContent.F_Client.resources
+D:\hk4\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FileContent.F_Server.resources
+D:\hk4\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Mail.Mail.resources
+D:\hk4\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Mail.SendMail.resources
+D:\hk4\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Mail.ViewMessage.resources
+D:\hk4\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+D:\hk4\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\hk4\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Authors.resources
+D:\hk4\Menu\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.GenerateResource.cache
+D:\hk4\Menu\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+D:\hk4\Menu\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.Fody.CopyLocal.cache
+D:\hk4\Menu\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.CopyComplete
+D:\hk4\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\hk4\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\MailKit.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\MailKit.dll.config
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\MimeKit.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\MimeKit.dll.config
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\RestSharp.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Data.Odbc.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Data.OleDb.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Diagnostics.EventLog.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Drawing.Common.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.IO.Packaging.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.IO.Ports.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Permissions.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Syndication.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Threading.AccessControl.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Core.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.AssemblyReference.cache
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ClSvwithFile.resources
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.dns.resources
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DNS.Client.resources
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DNS.DashBoardDNS.resources
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DNS.Server.resources
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Email.resources
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FileContent.F_Client.resources
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FileContent.F_Server.resources
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Mail.Mail.resources
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Mail.SendMail.resources
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Authors.resources
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.GenerateResource.cache
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.CopyComplete
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Mail.w.resources
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\MailKit.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.AccessControl.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.SystemEvents.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\MimeKit.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\RestSharp.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Data.Odbc.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Data.OleDb.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Diagnostics.EventLog.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Drawing.Common.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.IO.Packaging.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.IO.Pipes.AccessControl.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.IO.Ports.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Cng.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Permissions.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Duplex.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Http.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.NetTcp.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Primitives.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Security.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Syndication.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceProcess.ServiceController.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Threading.AccessControl.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Web.Services.Description.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Core.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\MailKit.pdb
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\MimeKit.pdb
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Duplex.pdb
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Http.pdb
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.NetTcp.pdb
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Primitives.pdb
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Security.pdb
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Web.Services.Description.pdb
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Lập trình mạng\Menu\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\MailKit.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.AccessControl.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.SystemEvents.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\MimeKit.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\RestSharp.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Data.Odbc.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Data.OleDb.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Diagnostics.EventLog.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Drawing.Common.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.IO.Packaging.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.IO.Pipes.AccessControl.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.IO.Ports.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Cng.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Permissions.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Duplex.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Http.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.NetTcp.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Primitives.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Security.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Syndication.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceProcess.ServiceController.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Threading.AccessControl.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Web.Services.Description.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Core.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Platform.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\MailKit.pdb
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\MailKit.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\MailKit.dll.config
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\MimeKit.pdb
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\MimeKit.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\MimeKit.dll.config
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\RestSharp.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Data.Odbc.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Data.OleDb.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Diagnostics.EventLog.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Drawing.Common.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.IO.Packaging.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.IO.Ports.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Permissions.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Duplex.pdb
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Http.pdb
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.NetTcp.pdb
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Primitives.pdb
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Security.pdb
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Syndication.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Threading.AccessControl.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\System.Web.Services.Description.pdb
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Core.pdb
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Core.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.AssemblyReference.cache
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ClSvwithFile.resources
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.dns.resources
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DNS.Client.resources
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DNS.DashBoardDNS.resources
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DNS.Server.resources
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Email.resources
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FileContent.F_Client.resources
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FileContent.F_Server.resources
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Mail.Mail.resources
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Mail.SendMail.resources
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Mail.w.resources
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Authors.resources
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.GenerateResource.cache
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.CopyComplete
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\DownloadinD\Menu\Menu\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\MailKit.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.AccessControl.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.SystemEvents.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\MimeKit.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\RestSharp.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Data.Odbc.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Data.OleDb.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Diagnostics.EventLog.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Drawing.Common.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.IO.Packaging.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.IO.Pipes.AccessControl.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.IO.Ports.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Cng.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Security.Permissions.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Duplex.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Http.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.NetTcp.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Primitives.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Security.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Syndication.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.ServiceProcess.ServiceController.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Threading.AccessControl.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Web.Services.Description.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Core.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Platform.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\MailKit.pdb
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\MailKit.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\MailKit.dll.config
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\MimeKit.pdb
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\MimeKit.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\MimeKit.dll.config
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\RestSharp.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Data.Odbc.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Data.OleDb.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Diagnostics.EventLog.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Drawing.Common.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.IO.Packaging.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.IO.Ports.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Security.Permissions.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Duplex.pdb
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Http.pdb
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.NetTcp.pdb
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Primitives.pdb
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Security.pdb
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Syndication.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Threading.AccessControl.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\System.Web.Services.Description.pdb
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Core.pdb
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Core.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\DownloadinD\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\DownloadinD\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.AssemblyReference.cache
+D:\DownloadinD\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+D:\DownloadinD\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ClSvwithFile.resources
+D:\DownloadinD\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.dns.resources
+D:\DownloadinD\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DNS.Client.resources
+D:\DownloadinD\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DNS.DashBoardDNS.resources
+D:\DownloadinD\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DNS.Server.resources
+D:\DownloadinD\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Email.resources
+D:\DownloadinD\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FileContent.F_Client.resources
+D:\DownloadinD\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FileContent.F_Server.resources
+D:\DownloadinD\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Mail.Mail.resources
+D:\DownloadinD\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Mail.SendMail.resources
+D:\DownloadinD\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Mail.w.resources
+D:\DownloadinD\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+D:\DownloadinD\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\DownloadinD\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Authors.resources
+D:\DownloadinD\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.GenerateResource.cache
+D:\DownloadinD\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+D:\DownloadinD\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.CopyComplete
+D:\DownloadinD\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\DownloadinD\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\MailKit.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.AccessControl.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.SystemEvents.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\MimeKit.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\RestSharp.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Data.Odbc.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Data.OleDb.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Diagnostics.EventLog.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Drawing.Common.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.IO.Packaging.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.IO.Pipes.AccessControl.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.IO.Ports.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Cng.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Security.Permissions.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Duplex.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Http.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.NetTcp.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Primitives.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Security.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Syndication.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.ServiceProcess.ServiceController.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Threading.AccessControl.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Web.Services.Description.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Core.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Platform.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\MailKit.pdb
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\MailKit.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\MailKit.dll.config
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\MimeKit.pdb
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\MimeKit.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\MimeKit.dll.config
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\RestSharp.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Data.Odbc.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Data.OleDb.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Diagnostics.EventLog.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Drawing.Common.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.IO.Packaging.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.IO.Ports.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Security.Permissions.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Duplex.pdb
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Http.pdb
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.NetTcp.pdb
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Primitives.pdb
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Security.pdb
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.ServiceModel.Syndication.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Threading.AccessControl.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\System.Web.Services.Description.pdb
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Core.pdb
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Core.xml
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\hk4\Menu\WindowsFormsApp1\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\hk4\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.AssemblyReference.cache
+D:\hk4\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+D:\hk4\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ClSvwithFile.resources
+D:\hk4\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.dns.resources
+D:\hk4\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DNS.Client.resources
+D:\hk4\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DNS.DashBoardDNS.resources
+D:\hk4\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DNS.Server.resources
+D:\hk4\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Email.resources
+D:\hk4\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FileContent.F_Client.resources
+D:\hk4\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FileContent.F_Server.resources
+D:\hk4\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Mail.Mail.resources
+D:\hk4\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Mail.SendMail.resources
+D:\hk4\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Mail.w.resources
+D:\hk4\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+D:\hk4\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\hk4\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Authors.resources
+D:\hk4\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.GenerateResource.cache
+D:\hk4\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+D:\hk4\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.CopyComplete
+D:\hk4\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\hk4\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
