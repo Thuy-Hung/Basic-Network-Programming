@@ -25,10 +25,15 @@
 
 - First, enter the IP address and port for the Client and Server to connect (enter for Server and click connect first).
   ![image](https://github.com/user-attachments/assets/0d818416-a591-4a1f-a3d8-473551a9303d)
+  
 - After the Client connects to the Server, it can enter any domain name and select the desired IP format before clicking the "Query" button to send data to the Server for processing.
+  ![image](https://github.com/user-attachments/assets/3e5592b0-1bed-4da9-8efc-dc297db6df3b)
+
 - The program will display errors for incorrect actions, such as:
-  - Attempting to connect the Client before starting the Server.
-  - Not entering a domain name or selecting the desired IP format before clicking "Query".
+  - Attempting to connect the Client before starting the Server. ![image](https://github.com/user-attachments/assets/8fd79619-c98d-4758-b7c1-da880e017cd8)
+
+  - Not entering a domain name or selecting the desired IP format before clicking "Query". ![image](https://github.com/user-attachments/assets/1bf2db96-b8ac-45d6-ad59-708e3fa748e2)
+
 
 ### Topic 7: Client/Server File Retrieval Program
 
